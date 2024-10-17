@@ -1,0 +1,20 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_sdl.cpp
+  imgui_impl_sdlrenderer.cpp
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\pbr demo\SDKs\IMGUI\imgui_impl_sdl.cpp(69,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\pbr demo\SDKs\IMGUI\imgui_impl_sdlrenderer.cpp(35,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Cube.cpp
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\pbr demo\PGG_ShadersIntro\Cube.h(6,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Cube.cpp')
+  
+  Main.cpp
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\pbr demo\PGG_ShadersIntro\Main.cpp(3,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Scene.cpp
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\pbr demo\PGG_ShadersIntro\Cube.h(6,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Scene.cpp')
+  
+  Generating Code...

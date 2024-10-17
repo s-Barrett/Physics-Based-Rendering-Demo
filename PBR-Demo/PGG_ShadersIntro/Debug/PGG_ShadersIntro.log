@@ -1,0 +1,21 @@
+﻿  imgui.cpp
+  imgui_impl_opengl3.cpp
+  Scene.cpp
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\PGG_ShadersIntro\Scene.h(45,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\PGG_ShadersIntro\Scene.h(46,35): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\PGG_ShadersIntro\Scene.h(48,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\PGG_ShadersIntro\Scene.h(49,36): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\PGG_ShadersIntro\Scene.cpp(66,49): warning C4305: '-=': truncation from 'double' to 'float'
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\PGG_ShadersIntro\Scene.cpp(75,49): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating Code...
+\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\SDKs\IMGUI\imgui_impl_opengl3.cpp : fatal  error C1085: Cannot write compiler generated file: '\\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\PGG_ShadersIntro\Debug\imgui_impl_opengl3.obj': No space left on device
+FileTracker : error FTK1006: could not write entry to the file tracking log file: \\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\PGG_ShadersIntro\Debug\PGG_ShadersIntro.tlog\CL.read.1.tlog. There is not enough space on the disk.
+FileTracker : error FTK1006: could not write entry to the file tracking log file: \\bournemouth.ac.uk\data\Student\Home\SciTech\s5531836\Desktop\PBR-Demo\PGG_ShadersIntro\Debug\PGG_ShadersIntro.tlog\CL.write.1.tlog. There is not enough space on the disk.
