@@ -1,6 +1,9 @@
 # Physics-Based-Rendering-Demo
-
 This project demonstrates a physics-based rendering (PBR) approach, developed during my university studies. It implements physics-based rendering equations in code to achieve more realistic lighting and material interactions.
+
+## Project Status
+- Status: **On Hold 🟡**
+##
 
 ## Features
 
