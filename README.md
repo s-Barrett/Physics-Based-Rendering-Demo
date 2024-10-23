@@ -13,7 +13,7 @@ This project demonstrates a physics-based rendering (PBR) approach, developed du
    git clone https://github.com/s-Barrett/Physics-Based-Rendering-Demo.git
 
 Run the project: 💽
-
+Open sln or exe
 
 Make sure the following dependencies are installed:
 
